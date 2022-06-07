@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html>
 
-<head> 
- <title> Aded music </title> 
-  
- <style> 
+<head>  <title> Aded music </title> 
+   <style> 
      nav {
       width: 100%;
       text-align: center;
